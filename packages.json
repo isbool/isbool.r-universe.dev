@@ -1,7 +1,6 @@
 [
     {
-        "package": "phangorn",
-        "url": "https://github.com/itsbool/phangorn-webR"
+        "package": "phangorn-webR",
+        "url": "https://github.com/isbool/phangorn-webR"
     }
-    // Add more packages here
 ]
