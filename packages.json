@@ -2,5 +2,9 @@
     {
         "package": "phangornWebR",
         "url": "https://github.com/isbool/phangorn-webR"
+    },
+    {
+        "package": "phangorn",
+        "url": "https://github.com/isbool/phangorn"
     }
 ]
