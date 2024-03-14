@@ -2,5 +2,9 @@
     {
         "package": "phangorn",
         "url": "https://github.com/isbool/phangorn"
-    }
+    },
+    {
+        "package": "vegan",
+        "url": "https://github.com/isbool/vegan"
+    }  
 ]
